@@ -4,7 +4,7 @@
 **Uygulama Adı:** ÇalışTik (CalisTik)  
 **Geliştirici:** Hüseyin Üzüm  
 **Canlı Web Sayfası:** [https://huseyinuzum.github.io/calistik-privacy-policy/](https://huseyinuzum.github.io/calistik-privacy-policy/)  
-**İletişim:** huseyinuzum.dev@gmail.com  
+**İletişim:** huseyinuzum91@gmail.com  
 
 ---
 
@@ -25,9 +25,9 @@ Bu Gizlilik Politikası, Hüseyin Üzüm tarafından geliştirilen **ÇalışTik
 Kullanıcı verileri hiçbir şart altında satılmaz, kiralanmaz ve reklam ağlarıyla paylaşılmaz. Veri iletimi TLS/SSL şifreleme protokolleriyle güvence altındadır.
 
 ## 5. Hesap ve Veri Silme Talepleri
-Kullanıcılar diledikleri zaman hesaplarının ve kayıtlı verilerinin tamamen silinmesini talep edebilir. Bunun için `huseyinuzum.dev@gmail.com` adresine e-posta göndermek yeterlidir.
+Kullanıcılar diledikleri zaman hesaplarının ve kayıtlı verilerinin tamamen silinmesini talep edebilir. Bunun için `huseyinuzum91@gmail.com` adresine e-posta göndermek yeterlidir.
 
 ---
 
 ## English Summary
-**CalisTik** is a student focus and study companion app. We value user privacy. We only use Firebase Authentication for logins, local Room database for study tracking, and Google Gemini API for anonymous motivational tips. We never sell user data. For data removal requests, please contact `huseyinuzum.dev@gmail.com`.
+**CalisTik** is a student focus and study companion app. We value user privacy. We only use Firebase Authentication for logins, local Room database for study tracking, and Google Gemini API for anonymous motivational tips. We never sell user data. For data removal requests, please contact `huseyinuzum91@gmail.com`.
